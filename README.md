@@ -1,6 +1,3 @@
-# GitHub Profile README — Minimal & Clean Version
-
-```md
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364" />
 </div>
@@ -89,4 +86,3 @@ Actualmente enfocado en arquitectura backend y sistemas enterprise.
 <p align="center">
   Backend • Integración • Automatización
 </p>
-```
